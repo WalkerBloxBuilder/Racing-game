@@ -1,0 +1,6 @@
+body { margin:0; overflow:hidden; font-family:Arial,sans-serif; background:#222; color:#fff; }
+#ui {position:absolute;top:10px;left:10px;background:rgba(0,0,0,0.5);padding:10px;border-radius:8px;z-index:10;}
+#scoreboard {position:absolute;top:10px;right:10px;background:rgba(0,0,0,0.5);padding:10px;border-radius:8px;z-index:10;}
+#scoreboard ul {margin:0;padding:0;list-style:none;}
+#mobile-controls {position:absolute;bottom:20px;left:50%;transform:translateX(-50%);z-index:10;}
+#mobile-controls button {width:60px;height:60px;margin:5px;font-size:24px;}
